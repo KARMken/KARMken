@@ -62,8 +62,6 @@
      <div align="center">
          <p>
        <br>
-         <strong>Contact me</strong>
-       <br>
        <br>
           <!-- Socials -->
          <a href="mailto:ken.aeron.milorin@gmail.com">
@@ -76,6 +74,7 @@
             <img src="https://img.icons8.com/color/48/facebook-new.png"  width="auto" height="auto"/>
           </a>
          </p>
+        <br>
      </div>
    </kbd>
   <kbd>
@@ -93,11 +92,9 @@
      <div align="center">
          <p>
        <br>
-         <strong>Followers Count</strong>
        <br>
        <br>
-       <br>
-          <img src="https://img.shields.io/github/followers/karmken?label=Followers&style=social" alt="followers-count" width="150px"> 
+          <img src="https://img.shields.io/github/followers/karmken?label=Followers&color=000000&labelColor=00ef13&style=plastic" width="150px" />
        <br>
        <br>
          </p>
@@ -106,7 +103,7 @@
 </div>
 <div align="center">
 <br>
-<img src="./assets/cat1.gif" height="500">
+<img src="./assets/terminal.gif" width="700">
 </div>
 <img src="./assets/border_separator.gif">
 
