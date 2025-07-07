@@ -1,16 +1,134 @@
-## Hi there 👋
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=0191cc&duration=4000&lines=Hi+There+!+;+I'm+Ken+Aeron!+;+I'm+an+Aspiring+GameDev" />
+</p>
+<img src="./assets/border_separator.gif">
 
-<!--
-**KARMken/KARMken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Leveling up one line of code at a time. Passionate about building interactive, fun, and impactful experiences!</h3>
 
-Here are some ideas to get you started:
+<img src="./assets/border_separator.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+> ```yaml
+> Name: Ken Aeron
+> Class: Game Developer
+> Location: Philippines
+> Level: Beginner
+> XP: Unity, C#, Lua
+> Guild: PUP Sto Tomas Campus
+> ```
+
+<div align="center">
+<br>
+<h3> Skills & Tools</h3>
+<br>
+</div>
+
+<!-- Skills -->
+<p align="left">
+  <!-- Unity Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" alt="Unity" />
+
+  <!-- C# -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#" />
+
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java" />
+
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++" />
+
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
+
+  <!-- HTML5 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML" />
+
+  <!-- CSS3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS" />
+
+  <!-- PHP -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP" />
+
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" />
+</p>
+
+<img src="./assets/border_separator.gif">
+
+<div align="center">
+  <h3>Player Stats</h3>
+  <kbd>
+     <div align="center">
+         <p>
+       <br>
+         <strong>Contact me</strong>
+       <br>
+       <br>
+          <!-- Socials -->
+         <a href="mailto:ken.aeron.milorin@gmail.com">
+            <img src="https://skillicons.dev/icons?i=gmail"  width="auto" height="auto"/>
+          </a>
+           <a href="https://github.com/KARMken">
+            <img src="https://skillicons.dev/icons?i=github"  width="auto" height="auto"/>
+          </a>
+          <a href="https://www.facebook.com/mama.momo1234567890">
+            <img src="https://skillicons.dev/icons?i=facebook"  width="auto" height="auto"/>
+          </a>
+         </p>
+     </div>
+   </kbd>
+  <kbd>
+     <div align="center">
+         <p>
+       <br> 
+         <strong>Profile Views</strong>
+       <br>
+       <br>
+           <img src="https://profile-counter.glitch.me/karmken/count.svg" width="350px" />
+         </p>
+     </div>
+   </kbd>
+   <kbd>
+     <div align="center">
+         <p>
+       <br>
+         <strong>Followers Count</strong>
+       <br>
+       <br>
+       <br>
+          <img src="https://img.shields.io/github/followers/karmken?label=Followers&style=social" alt="followers-count" width="150px"> 
+       <br>
+       <br>
+         </p>
+     </div>
+  </kbd>
+</div>
+<div align="center">
+<br>
+<img src="./assets/cat1.gif" height="500">
+</div>
+<img src="./assets/border_separator.gif">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=karmken&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=karmken&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karmken/karmken/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karmken/karmken/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karmken/karmken/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
+<img src="./assets/border_separator.gif">
+
+<br>
+<div align="center">
+<strong>“Games give us the power to escape reality — I want to be the one building the portals.”</strong>
+</div>
