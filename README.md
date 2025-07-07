@@ -73,7 +73,7 @@
             <img src="https://skillicons.dev/icons?i=github"  width="auto" height="auto"/>
           </a>
           <a href="https://www.facebook.com/mama.momo1234567890">
-            <img src="https://skillicons.dev/icons?i=facebook"  width="auto" height="auto"/>
+            <img src="https://img.icons8.com/color/48/facebook-new.png"  width="auto" height="auto"/>
           </a>
          </p>
      </div>
