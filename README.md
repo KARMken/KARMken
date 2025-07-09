@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=0191cc&duration=4000&lines=Hi+There+!+;+I'm+Ken+Aeron!+;+I'm+an+Aspiring+GameDev" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&color=0191cc&duration=5000&lines=Hi+There+!+I'm+Ken+Aeron+!+;+I'm+an+Aspiring+Game+Developer+!+;+Feel+free+to+contact+me." />
 </p>
 <img src="./assets/border_separator.gif">
 
