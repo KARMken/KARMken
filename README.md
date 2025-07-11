@@ -67,7 +67,7 @@
          <a href="mailto:ken.aeron.milorin@gmail.com">
             <img src="https://skillicons.dev/icons?i=gmail"  width="auto" height="auto"/>
           </a>
-           <a href="https://github.com/KARMken">
+           <a href="https://karmken.github.io">
             <img src="https://skillicons.dev/icons?i=github"  width="auto" height="auto"/>
           </a>
           <a href="https://www.facebook.com/mama.momo1234567890">
