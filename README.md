@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&color=0191cc&duration=5000&lines=Hi+There+!+I'm+Ken+Aeron+!+;+I'm+an+Aspiring+Game+Developer+!+;+Feel+free+to+contact+me." />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&color=0191cc&duration=3700&lines=Hi+There+!+I'm+Ken+Aeron+!+;+I'm+an+Aspiring+Game+Developer+!+;+Feel+free+to+contact+me." />
 </p>
 <img src="./assets/border_separator.gif">
 
@@ -108,8 +108,14 @@
 <img src="./assets/border_separator.gif">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=karmken&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=karmken&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<img src="https://streak-stats.demolab.com?user=karmken&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3&background=000000&ring=28ff3a&fire=28ff3a&currStreakLabel=ffffff&currStreakNum=28ff3a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" height="150" alt="streak graph" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmken&layout=compact&theme=radical&title_color=28ff3a&text_color=ffffff&bg_color=000000" height="150" alt="Top Languages" />
+
+<img src="https://github-profile-trophy.vercel.app?username=karmken&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+
+
+
 </div>
 
 ###
