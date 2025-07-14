@@ -128,7 +128,14 @@
 
 ###
 
+<div align="center">
+<h3><strong>Mini Projects</strong></h3>
+<br>
 
+| [![Meowlorin](https://github-readme-stats.vercel.app/api/pin/?username=KARMken&repo=meowlorin&theme=custom&title_color=28ff3a&text_color=ffffff&bg_color=000000&icon_color=39FF14)](https://github.com/KARMken/meowlorin) | [![Roblox Intro](https://github-readme-stats.vercel.app/api/pin/?username=KARMken&repo=roblox-intro&theme=custom&title_color=28ff3a&text_color=ffffff&bg_color=000000&icon_color=39FF14)](https://github.com/KARMken/roblox-intro) |
+|:---:|:---:|
+
+</div>
 <img src="./assets/border_separator.gif">
 
 <br>
